@@ -17,10 +17,10 @@ Links to my projects.
 Courses, educational projects, etc.
 
 ### Education
-**Donetsk National University of Economics and Trade**
-***Faculty:*** *Economics;*
-***Period of study:*** *2008 - 2013;*
-***Degree:*** *Masters of Economics of enterprise.*
+**Donetsk National University of Economics and Trade**  
+***Faculty:*** *Economics;*  
+***Period of study:*** *2008 - 2013;*  
+***Degree:*** *Masters of Economics of enterprise.*  
 
 ### English
 Intermediate.
