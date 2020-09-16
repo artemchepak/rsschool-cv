@@ -18,9 +18,9 @@ Courses, educational projects, etc.
 
 ### Education
 **Donetsk National University of Economics and Trade**  
-***Faculty:*** *Economics;*  
-***Period of study:*** *2008 - 2013;*  
-***Degree:*** *Masters of Economics of enterprise.*  
+- ***Faculty:*** *Economics;*  
+- ***Period of study:*** *2008 - 2013;*  
+- ***Degree:*** *Masters of Economics of enterprise.*  
 
 ### English
 Intermediate.
