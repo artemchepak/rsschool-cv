@@ -1,0 +1,47 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
+.wrapper {
+    width: 1200px;
+    margin: 0 auto;
+}
+.header {
+    height: 250px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px rgb(53, 53, 53) solid;
+}
+h1 {
+    font-size: 2.5em;
+    padding-bottom: 25px;
+}
+h3 {
+    font-size: 1.5em;
+}
+.header__content {
+    margin-right: 500px;
+}
+.header__photo-img {
+    height: 250px;
+    padding: 0px 50px;
+}
+section {
+    padding: 0px 25px;
+}
+p {
+    padding: 25px 0;
+}
+.education ul{
+    padding: 0 0 25px 50px;
+}
+.header__content-contacts ul {
+    padding: 25px 0 0 50px;
+}
+li {
+    padding: 0 0 14px 0;
+}
+.goals h3 {
+    padding-top: 25px;
+}
